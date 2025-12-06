@@ -34,6 +34,12 @@ fn main() {
     println!("{:?}", me);
 }
 ```
+| Skill       | Proficiency |
+|------------ |------------|
+| Python      | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% |
+| JavaScript  | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% |
+| Rust        | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% |
+| HTML/CSS    | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 85% |
 
 
 <div align="left">
