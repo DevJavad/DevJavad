@@ -1,6 +1,39 @@
-<h2 align="left">Hi 👋! My name is Javad.</h2>
+<h2 align="left">Hi 👋!</h2>
 
-###
+```rust
+#[derive(Debug)]
+struct Me {
+    first_name: String,
+    last_name: String,
+    email: String,
+    phone: String,
+    birthday: String,
+    telegram: String,
+    instagram: String,
+    linkedin: String,
+}
+
+impl Me {
+    fn new() -> Self {
+        Self {
+            first_name: "Javad".into(),
+            last_name: "Rajabzadeh".into(),
+            email: "MrJavad.Email@gmail.com".into(),
+            phone: "+989389967943".into(),
+            birthday: "1386/07/14".into(),
+            telegram: "https://t.me/PyJavad".into(),
+            instagram: "https://instagram.com/PyJavad".into(),
+            linkedin: "...".into(),
+        }
+    }
+}
+
+fn main() {
+    let me = Me::new();
+    println!("{:?}", me);
+}
+```
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
