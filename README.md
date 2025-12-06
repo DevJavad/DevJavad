@@ -34,12 +34,19 @@ fn main() {
     println!("{:?}", me);
 }
 ```
+## Skills
+
 | Skill       | Proficiency |
 |------------ |------------|
-| Python      | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% |
-| JavaScript  | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% |
-| Rust        | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% |
-| HTML/CSS    | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 85% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python      | ██████████ 90% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> JavaScript  | █████████  80% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="25"/> Rust        | ████████   70% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> HTML/CSS    | █████████  85% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="25"/> Django      | ████████   75% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="25"/> FastAPI     | ███████    65% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> SQL/MySQL   | █████████  80% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25"/> Docker      | ██████     60% |
+
 
 
 <div align="left">
