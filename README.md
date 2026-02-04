@@ -51,14 +51,12 @@ fn main() {
 | Skill       | Proficiency |
 |------------ |------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python      | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> JavaScript  | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="25"/> Rust        | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> HTML/CSS    | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="25"/> Django      | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="25"/> FastAPI     | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> SQL/MySQL   | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25"/> Docker      | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25"/> PHP           | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> JavaScript  | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> HTML/CSS    | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="25"/> Django      | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="25"/> FastAPI     | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="25"/> Flask       | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="25"/> GraphQL   | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> SQL/MySQL   | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25"/> Docker      | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/restapi/restapi-original.svg" width="25"/> REST API | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% |
